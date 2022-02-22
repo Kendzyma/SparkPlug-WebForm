@@ -1,0 +1,15 @@
+C:\Users\ACER NITRO 5\source\repos\SparkPlug.Webform\SparkPlug.Webform.Core\obj\Debug\net5.0\SparkPlug.Webform.Core.csprojAssemblyReference.cache
+C:\Users\ACER NITRO 5\source\repos\SparkPlug.Webform\SparkPlug.Webform.Core\obj\Debug\net5.0\SparkPlug.Webform.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER NITRO 5\source\repos\SparkPlug.Webform\SparkPlug.Webform.Core\obj\Debug\net5.0\SparkPlug.Webform.Core.AssemblyInfoInputs.cache
+C:\Users\ACER NITRO 5\source\repos\SparkPlug.Webform\SparkPlug.Webform.Core\obj\Debug\net5.0\SparkPlug.Webform.Core.AssemblyInfo.cs
+C:\Users\ACER NITRO 5\source\repos\SparkPlug.Webform\SparkPlug.Webform.Core\obj\Debug\net5.0\SparkPlug.Webform.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACER NITRO 5\source\repos\SparkPlug.Webform\SparkPlug.Webform.Core\bin\Debug\net5.0\SparkPlug.Webform.Core.deps.json
+C:\Users\ACER NITRO 5\source\repos\SparkPlug.Webform\SparkPlug.Webform.Core\bin\Debug\net5.0\SparkPlug.Webform.Core.dll
+C:\Users\ACER NITRO 5\source\repos\SparkPlug.Webform\SparkPlug.Webform.Core\bin\Debug\net5.0\ref\SparkPlug.Webform.Core.dll
+C:\Users\ACER NITRO 5\source\repos\SparkPlug.Webform\SparkPlug.Webform.Core\bin\Debug\net5.0\SparkPlug.Webform.Core.pdb
+C:\Users\ACER NITRO 5\source\repos\SparkPlug.Webform\SparkPlug.Webform.Core\bin\Debug\net5.0\SparkPlug.Webform.Infrastructure.dll
+C:\Users\ACER NITRO 5\source\repos\SparkPlug.Webform\SparkPlug.Webform.Core\bin\Debug\net5.0\SparkPlug.Webform.Infrastructure.pdb
+C:\Users\ACER NITRO 5\source\repos\SparkPlug.Webform\SparkPlug.Webform.Core\obj\Debug\net5.0\SparkPlug.Webform.Core.csproj.CopyComplete
+C:\Users\ACER NITRO 5\source\repos\SparkPlug.Webform\SparkPlug.Webform.Core\obj\Debug\net5.0\SparkPlug.Webform.Core.dll
+C:\Users\ACER NITRO 5\source\repos\SparkPlug.Webform\SparkPlug.Webform.Core\obj\Debug\net5.0\ref\SparkPlug.Webform.Core.dll
+C:\Users\ACER NITRO 5\source\repos\SparkPlug.Webform\SparkPlug.Webform.Core\obj\Debug\net5.0\SparkPlug.Webform.Core.pdb
